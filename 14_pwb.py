@@ -10,4 +10,4 @@ height = inches + conversion_inches
 
 height_cm = height * inch
 
-print("Your height is %0.2f" % height_cm, " cm"
+print("Your height is %0.2f" % height_cm, " cm")
