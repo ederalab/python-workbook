@@ -13,12 +13,12 @@ def licensePlate():
             l += 1
         while d < 3:
             plate = plate + str(random.randint(0,9))
-            d = d+1
+            d += 1
         return plate
     else:
         while d < 4:
             plate = plate + str(random.randint(0,9))
-            d = d+1
+            d += 1
         while l < 3:
             plate = plate + random.choice(string.ascii_uppercase)
             l += 1
