@@ -1,7 +1,5 @@
 # the sieve of eratosthenes
-"""
-technique to find all the prime numbers between 2 and some limit
-"""
+# technique to find all the prime numbers between 2 and some limit
 
 def sieve_eratosthenes(limit):
     num_list = []
