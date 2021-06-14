@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="183a4e61-d158-497d-9eed-e655b22b046f" name="Default Changelist" comment="Esercizi fino al 9 maggio">
-      <change afterPath="$PROJECT_DIR$/es_132_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_149_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_150_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_151_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_152_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_153_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_154_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_155_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_156_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_157_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_158_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_159_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_160_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_161_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_162_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_163_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_164_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_165_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_166_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_167_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_168_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_169_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_170_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_171_pwb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/es_172_pwb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es_183_pwb.py" beforeDir="false" afterPath="$PROJECT_DIR$/es_183_pwb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es_53_pwb.py" beforeDir="false" afterPath="$PROJECT_DIR$/es_53_pwb.py" afterDir="false" />
-    </list>
+    <list default="true" id="183a4e61-d158-497d-9eed-e655b22b046f" name="Default Changelist" comment="Merge remote-tracking branch 'origin/main' into main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,7 +266,28 @@
       <option name="project" value="LOCAL" />
       <updated>1621155739071</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Esercizi fino al 12 giugno">
+      <created>1623661101492</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623661101492</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Esercizi fino al 12 giugno">
+      <created>1623661180108</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1623661180108</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1623661241249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1623661241249</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,6 +313,8 @@
     <MESSAGE value="Esercizi fino al 21 marzo" />
     <MESSAGE value="Esercizi fino al 18 aprile" />
     <MESSAGE value="Esercizi fino al 9 maggio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Esercizi fino al 9 maggio" />
+    <MESSAGE value="Esercizi fino al 12 giugno" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main' into main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main" />
   </component>
 </project>
