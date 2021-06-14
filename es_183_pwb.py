@@ -1,5 +1,4 @@
 # element sequences
-
 def chemical_elements():
     elements_table = {
     'H' : 'Hydrogen', 'He' : 'Helium', 'Li' : 'Lithium', 'Be' : 'Beryllium', 'B' : 'Boron',
@@ -31,7 +30,7 @@ def chemical_elements():
         elements.append(v.lower())
     return elements
 
-
+#elementi
 def element_sequence(start, elements):
     if start == "" :
         return []
@@ -50,7 +49,7 @@ def element_sequence(start, elements):
 
     return [start] + best
 
-
+# main
 def main():
     elements = chemical_elements()
     element = input("Enter the name of an element: ")

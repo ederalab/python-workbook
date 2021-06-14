@@ -26,4 +26,4 @@ elif point > 0 and point <= 1.0:
 elif point == 0:
     letter_grade = "F"
 
-print("The letter grade corresponding to",point,"poiunts is:",letter_grade)
+print("The letter grade corresponding to",point,"points is:",letter_grade)
