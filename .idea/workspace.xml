@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="183a4e61-d158-497d-9eed-e655b22b046f" name="Default Changelist" comment="Merge remote-tracking branch 'origin/main' into main" />
+    <list default="true" id="183a4e61-d158-497d-9eed-e655b22b046f" name="Default Changelist" comment="Merge remote-tracking branch 'origin/main' into main">
+      <change afterPath="$PROJECT_DIR$/167 bkp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es_167_pwb.py" beforeDir="false" afterPath="$PROJECT_DIR$/es_167_pwb.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
@@ -41,7 +52,7 @@
       <recent name="$USER_HOME$/Desktop/PYTHON/python-workbook" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.es_171_pwb">
+  <component name="RunManager" selected="Python.es_167_pwb">
     <configuration name="es_139_pwb" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python-workbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="es_168_pwb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="es_167_pwb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-workbook" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_168_pwb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_167_pwb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,19 +203,19 @@
     <list>
       <item itemvalue="Python.es_139_pwb" />
       <item itemvalue="Python.python-workbook" />
-      <item itemvalue="Python.es_168_pwb" />
       <item itemvalue="Python.es_169_pwb" />
       <item itemvalue="Python.es_170_pwb" />
       <item itemvalue="Python.es_172_pwb" />
       <item itemvalue="Python.es_171_pwb" />
+      <item itemvalue="Python.es_167_pwb" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.es_167_pwb" />
         <item itemvalue="Python.es_171_pwb" />
         <item itemvalue="Python.es_170_pwb" />
         <item itemvalue="Python.es_172_pwb" />
         <item itemvalue="Python.es_169_pwb" />
-        <item itemvalue="Python.es_168_pwb" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623661241249</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main' into main">
+      <created>1623661599829</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1623661599830</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

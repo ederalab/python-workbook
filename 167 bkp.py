@@ -9,20 +9,25 @@ def spell_checker(word_list, filename):
     word_dict = dict()
     try:
         myfile = open(word_list, 'r')
-        for line in myfile:
-            add_line = line.strip()
-            word_dict[add_line.lower()] = 0
+        for line in myfile.readlines():
+            add_line = line.split()
+            word_dict[add_line[0].lower()] = 0
         myfile.close()
     except:
         print("Error in reading the word list")
 
     myfile = open(filename, 'r')
-    for line in myfile:
-        for word in onlyWords(line):
-            if word.lower() not in word_dict and not word.isdigit():
-                if word.lower() not in result:
-                    result.append(word.lower())
+    for line in myfile.readlines():
+        line = line.rstrip()
+        line2check = line.split()
+        print(line2check)
+        for i in line2check:
+            word = onlyWords(i)
+            word = str(word)
+            if not word.lower() in word_dict.keys():
+                result.append(word.lower())
     myfile.close()
+    #print('dentro la funzione')
     return result
 
 
@@ -34,7 +39,7 @@ def main():
         quit()
 
     word_list = dir_path + '/file_utili/words.txt'
-    # filename = dir_path + '/file_utili/emma.txt'
+    #filename = dir_path + '/file_utili/emma.txt'
     filename = dir_path + '/file_utili/' + sys.argv[1]
 
     result =  spell_checker(word_list, filename)
