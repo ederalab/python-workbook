@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="183a4e61-d158-497d-9eed-e655b22b046f" name="Default Changelist" comment="Esercizi fino al 9 maggio">
+      <change afterPath="$PROJECT_DIR$/es_132_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_149_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_150_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_151_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_152_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_153_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_154_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_155_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_156_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_157_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_158_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_159_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_160_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_161_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_162_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_163_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_164_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_165_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_166_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_167_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_168_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_169_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_170_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_171_pwb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es_172_pwb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es_183_pwb.py" beforeDir="false" afterPath="$PROJECT_DIR$/es_183_pwb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es_53_pwb.py" beforeDir="false" afterPath="$PROJECT_DIR$/es_53_pwb.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pu43kjbDa5LSg16anb4MWhkwjA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/tomorrowdevs" />
+      <recent name="$PROJECT_DIR$/../workshops" />
+      <recent name="$USER_HOME$/Desktop/PYTHON/python-workbook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.es_171_pwb">
+    <configuration name="es_139_pwb" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python-workbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_139_pwb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es_168_pwb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-workbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_168_pwb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es_169_pwb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-workbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_169_pwb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es_170_pwb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-workbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_170_pwb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es_171_pwb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-workbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_171_pwb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="es_172_pwb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-workbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/es_172_pwb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python-workbook" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python-workbook" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.es_139_pwb" />
+      <item itemvalue="Python.python-workbook" />
+      <item itemvalue="Python.es_168_pwb" />
+      <item itemvalue="Python.es_169_pwb" />
+      <item itemvalue="Python.es_170_pwb" />
+      <item itemvalue="Python.es_172_pwb" />
+      <item itemvalue="Python.es_171_pwb" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.es_171_pwb" />
+        <item itemvalue="Python.es_170_pwb" />
+        <item itemvalue="Python.es_172_pwb" />
+        <item itemvalue="Python.es_169_pwb" />
+        <item itemvalue="Python.es_168_pwb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="183a4e61-d158-497d-9eed-e655b22b046f" name="Default Changelist" comment="" />
+      <created>1616019443819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616019443819</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Esercizi fino al 17 marzo">
+      <created>1616239444635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616239444635</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Esercizi fino al 17 marzo">
+      <created>1616239457685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616239457685</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Esercizi fino al 21 marzo">
+      <created>1616319466533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616319466533</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Esercizi fino al 18 aprile">
+      <created>1618840243165</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618840243165</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Esercizi fino al 9 maggio">
+      <created>1621007307120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621007307120</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Esercizi fino al 9 maggio">
+      <created>1621155705962</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621155705962</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Esercizi fino al 9 maggio">
+      <created>1621155739071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621155739071</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Esercizi fino al 17 marzo" />
+    <MESSAGE value="Esercizi fino al 21 marzo" />
+    <MESSAGE value="Esercizi fino al 18 aprile" />
+    <MESSAGE value="Esercizi fino al 9 maggio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizi fino al 9 maggio" />
+  </component>
+</project>
