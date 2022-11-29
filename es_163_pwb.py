@@ -3,11 +3,10 @@
 import os
 # from zipfile import ZipFile
 
+
 def walk(dirname):
     girls = []
     boys = []
-    temp_girls = dict()
-    temp_boys = dict()
 
     try:
         for name in os.listdir(dirname):
@@ -15,35 +14,21 @@ def walk(dirname):
             if os.path.isfile(path):
                 if 'Girls' in path:
                     myfile = open(path, 'r')
-                    # read the file and insert the names in a temporary list
-                    for line in myfile.readlines():
-                        temp = line.split()
-                        temp_girls[temp[0]] = temp[1]
 
-                    #take the higher values of each year and insert in the right list
-                    i = True
-                    while i == True :
-                        if max(temp_girls) not in girls:
-                            girls.append(max(temp_girls))
-                            i = False
-                        else:
-                            temp_girls.pop(max(temp_girls))
+                    firstline = myfile.readline()
+                    temp = firstline.split()
+                    if temp[0] not in girls:
+                        girls.append(temp[0])
+
                     myfile.close()
                 else:
                     myfile = open(path, 'r')
-                    # the same for boys
-                    for line in myfile.readlines():
-                        temp = line.split()
-                        temp_boys[temp[0]] = temp[1]
 
-                    #take the higher values of each year and insert in the right list
-                    i = True
-                    while i == True :
-                        if max(temp_boys) not in boys:
-                            boys.append(max(temp_boys))
-                            i = False
-                        else:
-                            temp_boys.pop(max(temp_boys))
+                    firstline = myfile.readline()
+                    temp = firstline.split()
+                    if temp[0] not in boys:
+                        boys.append(temp[0])
+
                     myfile.close()
             else:
                 walk(path)
